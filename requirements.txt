@@ -1,0 +1,5 @@
+# Python 3.10-3.12. Install a suitable PyTorch wheel first (see README).
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+tabpfn==8.4.0
